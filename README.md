@@ -3,8 +3,7 @@
 
 # @seneca/checklyhq-provider
 
-[![npm version](https://img.shields.io/npm/v/@seneca/checkly-provider.svg)](https://npmjs.com/package/@seneca/checkly-provider)
-[![build](https://github.com/senecajs/seneca-checkly-provider/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-checklyhq-provider/actions/workflows/build.yml)
+[![build](https://github.com/senecajs/seneca-checklyhq-provider/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-checklyhq-provider/actions/workflows/build.yml)
 [![Coverage Status](https://coveralls.io/repos/github/senecajs/seneca-checklyhq-provider/badge.svg?branch=main)](https://coveralls.io/github/senecajs/seneca-checklyhq-provider?branch=main)
 [![Known Vulnerabilities](https://snyk.io/test/github/senecajs/seneca-checklyhq-provider/badge.svg)](https://snyk.io/test/github/senecajs/seneca-checklyhq-provider)
 [![DeepScan grade](https://deepscan.io/api/teams/5016/projects/19462/branches/505954/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=5016&pid=19462&bid=505954)
